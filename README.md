@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play videogames and my favorite videogame is valorant
 - ![download](https://github.com/user-attachments/assets/2779d923-5d1b-4643-825a-f7668319075b) ![download](https://github.com/user-attachments/assets/3e651ee6-08b9-4242-988b-049bf6f32c8c) ![download](https://github.com/user-attachments/assets/ecb79712-88ba-4f65-a4b8-35718e3f6512)
-- <!---
+- <!--- Thanks for reading this
 gaparridnhs/gaparridnhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
