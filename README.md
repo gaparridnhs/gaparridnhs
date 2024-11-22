@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on computer science projects
 - 📫 How to reach me is my email: Graysonaparri@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play videogames and my favorite videogame is valorant
+- ⚡ Fun fact: I like to play videogames and my favorite videogame is valorant. The sport that I participate in is track and field
 - ![download](https://github.com/user-attachments/assets/2779d923-5d1b-4643-825a-f7668319075b) ![download](https://github.com/user-attachments/assets/3e651ee6-08b9-4242-988b-049bf6f32c8c) ![download](https://github.com/user-attachments/assets/ecb79712-88ba-4f65-a4b8-35718e3f6512)
 <!--- Thanks for reading this
 gaparridnhs/gaparridnhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
